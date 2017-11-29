@@ -1,14 +1,15 @@
-## Иван Курманов
+## кто я?
 
-Программист, руководитель проекта. Ищу --друзей-- сотрудников. 
+Курманов Иван. Программист, руководитель проекта. Индивидуальный предприниматель.
 
+## что я делаю?
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Веду проект. Собираю требования. Ставли задачи. Координирую. Передаю вопросы заказчику от разработчиков, а ответы заказчиков — разработчикам. Планирую. 
 
-### Jekyll Themes
+## зачем этот сайт?
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kurmanka/kurmanka.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Я ищу сотрудников. Программистов, software инженеров, software архитекторов. 
 
-### Support or Contact
+## как связаться?
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[duraley@gmail.com](mailto:duraley@gmail.com)
